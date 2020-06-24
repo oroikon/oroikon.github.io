@@ -19,6 +19,7 @@ display: flex;
 
 
 .left, .right {
+	margin: 5px;
   flex: 1;
   position:relative;
    justify-content: center;
@@ -44,6 +45,8 @@ display: flex;
 .right .bio{
 	position:absolute;
 	bottom:0px;
+	align-items: center;
+  justify-content: center;
 	
 }
 
