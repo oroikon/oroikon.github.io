@@ -37,7 +37,12 @@ display: flex;
    height: 100%
   
 }
-
+.left .profile-picture{
+	position:absolute;
+	top:0px;
+	left:0px;
+  
+}
 .left {
 	top:0;
   
