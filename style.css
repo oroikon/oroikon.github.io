@@ -43,13 +43,7 @@ display: flex;
   align-items: center;
   justify-content: center;
 }
-.right .bio{
-	position:absolute;
-	bottom:0px;
-	align-items: center;
-  justify-content: center;
-	
-}
+
 
 ul{margin: 0;
 padding: 0;}
