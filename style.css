@@ -44,8 +44,7 @@ display: flex;
 	position:absolute;
 	top:0px;
 	left:0px;
-	height: auto;
-	width: auto;
+	transform:scale(0.5);
   
 }
 .right {
