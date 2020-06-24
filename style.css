@@ -20,10 +20,10 @@ display: flex;
 .wrapper {
   
   
-  max-width: 50%;
+  max-width: 70%;
   display: flex;
   flex-direction: row;
-  height: 80%;
+  height: 100%;
 }
 
 .left, .right {
