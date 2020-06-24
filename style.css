@@ -20,6 +20,7 @@ display: flex;
 
 .left, .right {
 	margin: 5px;
+	max-width: 50%;
   flex: 1;
   position:relative;
    justify-content: center;
